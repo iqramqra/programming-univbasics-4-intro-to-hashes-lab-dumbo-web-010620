@@ -35,5 +35,5 @@ def update_counting_hash(hash, key)
   fruit = {
     hash: key
   }
-  fruit[:]
+  fruit[:new_key] = key
 end
