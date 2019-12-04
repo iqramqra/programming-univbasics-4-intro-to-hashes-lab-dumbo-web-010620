@@ -5,7 +5,7 @@ end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
-  my_ash = { "Ruby" => 4}
+  my_hash = { "Ruby" => 4}
 end
 
 def pioneer
