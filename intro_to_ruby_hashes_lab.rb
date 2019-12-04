@@ -35,4 +35,5 @@ def update_counting_hash(hash, key)
  update_count = {
    hash => key
  }
+ update_count[hash]+= 1
 end
